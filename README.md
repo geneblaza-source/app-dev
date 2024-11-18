@@ -1,7 +1,6 @@
 # app-dev
 My First Repository
-## H2
-Gamer Geneblaza
+## Gamer Geneblaza
 **bold text**
 One Piece
 1. First item
